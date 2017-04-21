@@ -1,7 +1,7 @@
-#Documentation For CEP.
+Documentation For Adobe CEP.
+===
 
-##Set up dev environment:
-
+## *Set up dev environment:*
 1. Check if CEP directory exists in route:
   /Library/Application Support/Adobe/
 
@@ -17,7 +17,7 @@
 
 5. Open Indesign and look for the extension under window menu > extensions > your_extension
 
-#Links:
+## Links:
 
 <https://medium.com/@HallgrimurTh/extending-adobe-cc-2014-apps-ba1d101e27da#.n515nswd1>
 <https://github.com/majman/adobe-scripts-panel/blob/master/README.md>
